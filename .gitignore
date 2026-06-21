@@ -1,0 +1,40 @@
+# Xcode / Swift
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# SPM
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
+
+# Playwright
+.playwright-mcp/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.mobileprovision
+AuthKey_*.p8
+ExportOptions.plist
+
+# Python
+__pycache__/
+*.pyc
+
+# Sensitive App Store Connect credentials — never commit
+.claude/skills/app-store-submission/create-env/
+.env
