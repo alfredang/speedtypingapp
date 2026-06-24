@@ -2,6 +2,7 @@
 
 > **SpeedTyping** — a native **iPad-only** app for learning to type fast and accurately, built with SwiftUI.
 
+[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-0a84ff?logo=apple&logoColor=white)](https://apps.apple.com/us/app/tertiary-speedtyping/id6782661288)
 ![Platform](https://img.shields.io/badge/platform-iPadOS%2017%2B-blue)
 ![Swift](https://img.shields.io/badge/Swift-5-orange)
 ![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-0a84ff)
@@ -10,6 +11,8 @@
 SpeedTyping teaches **correct hand position and fingering**, then builds your speed through
 graded practice articles, repetitive drills, and timed tests measured in **words- and
 characters-per-minute**. Designed for the large iPad canvas.
+
+> 🎉 **Now live on the App Store!** [**Tertiary SpeedTyping**](https://apps.apple.com/us/app/tertiary-speedtyping/id6782661288) is available to download for iPad.
 
 ![SpeedTyping — Learn screen](screenshot.png)
 
@@ -79,6 +82,10 @@ SpeedTyping/
 
 The **Test** tab has a gear icon → **Admin Settings** (default passcode `2468`, changeable).
 There an administrator sets the **passing speed (WPM)** used to grade every test.
+
+## Download
+
+📲 **[Tertiary SpeedTyping on the App Store](https://apps.apple.com/us/app/tertiary-speedtyping/id6782661288)** — free for iPad.
 
 ## Acknowledgements
 
